@@ -64,7 +64,7 @@ def main():
     """
     try:
       #Create EIA API using API key
-      api_key = "ad819ee5a69e69390eadf300fa168fa8"
+      api_key = "xxxxxxxxx"
       api = eia.API(api_key)
       #Declare desired series ID
       series_ID='NG.RNGWHHD.D'
